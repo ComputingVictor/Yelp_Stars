@@ -1,0 +1,1 @@
+Don't delete the folder. The graph of the notebook 6, will be exported inside here.
