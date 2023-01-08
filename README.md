@@ -1,4 +1,4 @@
-# BUSINESS SCORE ANALYISIS
+# Yelp Stars Prediction
 
 
 <p align="center">
@@ -128,7 +128,5 @@ Antonio Nogués Podadera:
 
 
 ## Project Link: 
-
-https://github.com/antonionogues/yelp_business_score_analysis
 
 https://github.com/ComputingVictor/Yelp_Stars
