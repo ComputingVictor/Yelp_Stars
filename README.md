@@ -17,8 +17,6 @@
 
 This is the final project for the subject Machine Learning of CUNEF Master´s in Data Science. The objective of this project is to study the [Yelp dataset](https://www.yelp.com/dataset/download), find business cases and to create predictive models.
 
-obtain the probability that one establisment get high score (four or five stars). It will be applied different types of Machine Learning models comparing the results that were found and determine the model that is the optimum. To get this we have made differents transformations to the original dataset. 
-
 
 ## Business Case
 
